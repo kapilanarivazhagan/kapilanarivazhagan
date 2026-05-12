@@ -1,6 +1,6 @@
 # Hi, I'm Kapilan Arivazhagan 👋
 
-**Data Analyst | Operations Analytics | Business Intelligence**
+**Data Scientist | Operations Analytics | Business Intelligence**
 
 I build operational analytics systems, KPI dashboards, reporting automation workflows, and applied AI solutions for business operations.
 
