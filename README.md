@@ -1,4 +1,4 @@
-# Hi, I'm Kapilan Arivazhagan 👋
+# Hi, I'm Kapilan Arivazhagan
 
 **Data Scientist | Operations Analytics | Business Intelligence**
 
