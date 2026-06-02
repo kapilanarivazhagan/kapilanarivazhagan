@@ -1,29 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kapilan%20Arivazhagan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Applied%20AI&descAlignY=62&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kapilan%20Arivazhagan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Applied%20AI&descAlignY=62&descSize=16"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence;Building+Operational+Analytics+Systems;Applied+AI+%7C+Computer+Vision+%7C+Automation;Transforming+Data+Into+Business+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence;Building+Operational+Analytics+Systems;Applied+AI+%7C+Computer+Vision+%7C+Automation;Transforming+Data+Into+Business+Impact"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kapilanarivazhagan&style=flat-square&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=kapilanarivazhagan&style=flat-square&color=blueviolet"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="55%">
 
 ```python
 class KapilanArivazhagan:
 
     def __init__(self):
-        self.name = "Kapilan Arivazhagan"
-        self.location = "Bangalore, India"
-        self.degree = "B.E Mechanical Engineering"
+
         self.role = "Data Analyst | BI | Applied AI"
+
+        self.location = "Bangalore, India"
 
         self.stack = [
             "Python",
@@ -38,24 +40,26 @@ class KapilanArivazhagan:
             "Streamlit"
         ]
 
-        self.currentlyLearning = [
-            "Advanced SQL Optimization",
+        self.currently_learning = [
             "Data Engineering",
-            "ML Deployment",
             "Analytics Engineering",
+            "ML Deployment",
             "Cloud Architecture"
         ]
 
-        self.funFact = (
-            "I combine operations analytics with applied AI "
-            "to solve real-world business problems."
-        )
-
     def motto(self):
-        return "Build systems that make businesses smarter."
+        return "Build systems that solve real business problems."
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,13 +118,9 @@ class KapilanArivazhagan:
 
 <div align="center">
 
-<a href="https://github.com/kapilanarivazhagan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kapilanarivazhagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kapilanarivazhagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 
-<a href="https://github.com/kapilanarivazhagan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilanarivazhagan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilanarivazhagan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
@@ -145,7 +145,7 @@ class KapilanArivazhagan:
 # 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapilanarivazhagan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kapilanarivazhagan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
 ---
@@ -243,10 +243,10 @@ class KapilanArivazhagan:
 # 📚 Currently Learning
 
 ```bash
-🧱 Data Engineering        → ETL Pipelines, Warehousing, Airflow
+🧱 Data Engineering        → ETL Pipelines, Warehousing
 ☁️ AWS Cloud              → EC2, S3, Deployment Architectures
 📊 Analytics Engineering  → dbt, Metrics Layer, Data Modeling
-🤖 Applied AI             → Computer Vision, OCR Pipelines, ML Deployment
+🤖 Applied AI             → OCR Pipelines, ML Deployment
 ⚡ Advanced SQL           → Query Optimization, Window Functions
 ```
 
