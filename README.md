@@ -22,18 +22,14 @@ class KapilanArivazhagan:
         self.name      = "Kapilan Arivazhagan"
         self.location  = "Bangalore, India 🇮🇳"
         self.role      = "Data Analyst | BI"
-        self.education = "B.E. Mechanical Engg, SKCET"
-        self.stack     = ["Python", "SQL",
-                          "Tableau", "Metabase", "AWS"]
-        self.learning  = ["Advanced ML",
-                          "Data Engineering",
-                          "Cloud Architecture"]
-        self.fun_fact  = "I run a café and use data"
-                         " to optimize every cup ☕"
+        self.education = "B.E. Mech. Engg, SKCET"
+        self.stack     = ["Python", "SQL", "Tableau"]
+        self.tools     = ["Metabase", "AWS", "Git"]
+        self.learning  = ["Data Engg", "ML Ops"]
+        self.fun_fact  = "Data + Coffee = Insights ☕"
 
-    def motto(self):
-        return "Data is the new fuel — "
-               "I build the engine 🚀"
+    def motto(self) -> str:
+        return "Data is the new fuel 🚀"
 
 me = KapilanArivazhagan()
 print(me.motto())
