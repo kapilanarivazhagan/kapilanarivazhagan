@@ -12,27 +12,39 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 
-```python
+<pre lang="python">
 class KapilanArivazhagan:
     def __init__(self):
-        self.name        = "Kapilan Arivazhagan"
-        self.location    = "Bangalore, India 🇮🇳"
-        self.role        = "Data Analyst | Business Intelligence"
-        self.education   = "B.E. Mechanical Engineering, SKCET"
-        self.stack       = ["Python", "SQL", "Tableau", "Metabase", "AWS"]
-        self.learning    = ["Advanced ML", "Data Engineering", "Cloud Architecture"]
-        self.fun_fact    = "I run a café and use data to optimize every cup ☕"
+        self.name      = "Kapilan Arivazhagan"
+        self.location  = "Bangalore, India 🇮🇳"
+        self.role      = "Data Analyst | BI"
+        self.education = "B.E. Mechanical Engg, SKCET"
+        self.stack     = ["Python", "SQL",
+                          "Tableau", "Metabase", "AWS"]
+        self.learning  = ["Advanced ML",
+                          "Data Engineering",
+                          "Cloud Architecture"]
+        self.fun_fact  = "I run a café and use data"
+                         " to optimize every cup ☕"
 
     def motto(self):
-        return "Data is the new fuel — I build the engine 🚀"
+        return "Data is the new fuel — "
+               "I build the engine 🚀"
 
 me = KapilanArivazhagan()
 print(me.motto())
-```
+</pre>
 
-<br clear="right"/>
+</td>
+<td width="42%" valign="middle" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,13 +81,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=KapilanArivazhagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"><img height="180" src="https://github-readme-stats.vercel.app/api?username=KapilanArivazhagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanArivazhagan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilanArivazhagan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/></a>
-</div>
-
 ## 🔥 Streak
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=KapilanArivazhagan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/></p>
@@ -83,10 +88,6 @@ print(me.motto())
 ## 📈 Activity
 
 <p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KapilanArivazhagan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/></p>
-
-## 🏆 Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=KapilanArivazhagan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/></p>
 
 ---
 
