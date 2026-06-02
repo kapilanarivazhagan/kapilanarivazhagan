@@ -55,6 +55,8 @@ class KapilanArivazhagan:
         return "Build systems that make businesses smarter."
 ```
 
+<br clear="right"/>
+
 ---
 
 # ⚡ Tech Stack
@@ -64,11 +66,15 @@ class KapilanArivazhagan:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
+---
+
 ## 📊 Analytics & BI
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square\&logo=metabase\&logoColor=white)
+
+---
 
 ## 🤖 Machine Learning & Computer Vision
 
@@ -77,6 +83,8 @@ class KapilanArivazhagan:
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square\&logo=darkreader\&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-FF6F00?style=flat-square\&logo=googlelens\&logoColor=white)
 
+---
+
 ## ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
@@ -84,10 +92,14 @@ class KapilanArivazhagan:
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
+---
+
 ## 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+---
 
 ## 🛠️ Tools & Frameworks
 
@@ -143,12 +155,12 @@ class KapilanArivazhagan:
 <details>
 <summary><b>🚀 Fyn Mobility — Data Analyst | Business Intelligence</b> (Apr 2025 – Present | Bangalore)</summary>
 
-> Tech Stack: SQL • Metabase • Excel • Google Sheets • APIs • AWS • Python
+> Tech Stack: SQL • Metabase • Excel • APIs • AWS • Python • OCR • YOLO
 
-* Built operational dashboards monitoring **15+ KPIs** including SLAs, utilization, revenue tracking, and service performance.
-* Automated executive MIS reporting workflows, reducing manual reporting effort by **~60%**.
-* Designed API-integrated reporting systems automating **10+ recurring business reports**.
-* Developed OCR + YOLO based operational verification systems for vehicle and driver validation.
+* Built operational dashboards monitoring 15+ KPIs including SLAs, utilization, and revenue tracking.
+* Reduced manual reporting effort by ~60% through automated MIS systems.
+* Automated 10+ recurring business reports using APIs and notification workflows.
+* Built computer vision verification systems for operational compliance monitoring.
 
 </details>
 
@@ -157,20 +169,20 @@ class KapilanArivazhagan:
 
 > Tech Stack: Python • LSTM • Streamlit • Flask • Scikit-learn
 
-* Built predictive ML models for churn prediction and time-series forecasting.
-* Developed and deployed ML applications using Streamlit and Flask.
-* Worked on model evaluation and business-facing ML workflows.
+* Built churn prediction and time-series forecasting models.
+* Developed ML deployment workflows using Streamlit and Flask.
+* Worked on business-facing machine learning systems.
 
 </details>
 
 <details>
 <summary><b>☕ Skyloft Café — Founder</b> (Dec 2023 – Present | Theni)</summary>
 
-> Tech Stack: Excel • Operations Analytics • Business Reporting
+> Tech Stack: Excel • Analytics • Operations
 
-* Managed café operations using data-driven inventory and sales workflows.
-* Improved operational efficiency by **~20%**.
-* Increased customer footfall by **~15%** using sales and pricing analysis.
+* Managed café operations using analytics-driven workflows.
+* Improved operational efficiency by ~20%.
+* Increased customer footfall by ~15%.
 
 </details>
 
@@ -179,8 +191,8 @@ class KapilanArivazhagan:
 
 > Tech Stack: Operations Planning • Maintenance Coordination
 
-* Supported maintenance planning for a **260-vehicle fleet**.
-* Coordinated with technicians and vendors for daily operational execution.
+* Supported planning and maintenance for a 260-vehicle fleet.
+* Coordinated with vendors and technicians for operational execution.
 
 </details>
 
@@ -190,11 +202,11 @@ class KapilanArivazhagan:
 
 <div align="center">
 
-| Project                                               | Stack                                | Highlights                                                                                      |
-| ----------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| [Computer Vision Vehicle Verification System](#)      | Python, YOLO, OCR, OpenCV, AWS EC2   | Automated number plate recognition and facial verification workflows for operational compliance |
-| [Executive Performance Scorecard & MIS Automation](#) | SQL, Tableau, Metabase, AWS S3, APIs | Automated KPI reporting workflows with AI-generated insights and dashboard automation           |
-| [Geospatial Operations Monitoring System](#)          | Python, H3, Geospatial Analytics     | Built breakdown-response optimization and nearby service-center intelligence workflows          |
+| Project                                                                                   | Stack                              | Highlights                                                           |
+| ----------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------- |
+| [Computer Vision Vehicle Verification System](https://github.com/kapilanarivazhagan)      | Python, YOLO, OCR, OpenCV, AWS EC2 | Automated number plate recognition and driver verification workflows |
+| [Executive Performance Scorecard & MIS Automation](https://github.com/kapilanarivazhagan) | SQL, Tableau, Metabase, AWS S3     | Automated KPI dashboards and reporting systems                       |
+| [Geospatial Operations Monitoring System](https://github.com/kapilanarivazhagan)          | Python, H3, Geospatial Analytics   | Built breakdown-response optimization intelligence workflows         |
 
 </div>
 
@@ -204,13 +216,13 @@ class KapilanArivazhagan:
 
 <div align="center">
 
-| 🎯 | Achievement            | Details                                                   |
-| -- | ---------------------- | --------------------------------------------------------- |
-| 📊 | KPI Automation         | Automated 10+ recurring business reports                  |
-| ⚡  | Reporting Optimization | Reduced manual reporting effort by ~60%                   |
-| 🚗 | Fleet Operations       | Supported operations planning for 260-vehicle fleet       |
-| 🤖 | Applied AI Systems     | Built OCR + YOLO based operational verification workflows |
-| ☕  | Business Operations    | Improved café operational efficiency by ~20%              |
+| 🎯 | Achievement            | Details                                             |
+| -- | ---------------------- | --------------------------------------------------- |
+| 📊 | KPI Automation         | Automated 10+ recurring business reports            |
+| ⚡  | Reporting Optimization | Reduced manual reporting effort by ~60%             |
+| 🚗 | Fleet Operations       | Supported operations planning for 260-vehicle fleet |
+| 🤖 | Applied AI Systems     | Built OCR + YOLO operational verification workflows |
+| ☕  | Business Analytics     | Improved café efficiency by ~20%                    |
 
 </div>
 
@@ -243,13 +255,19 @@ class KapilanArivazhagan:
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kapilan-arivazhagan/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:kapilanarivazhagan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/kapilanarivazhagan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kapilan-arivazhagan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kapilanarivazhagan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
